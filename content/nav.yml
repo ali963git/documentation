@@ -4,6 +4,11 @@
 
 - title: About npm
   url: /about-npm
+- title: Speed Insights
+  url: /speed-insights
+  children:
+    - title: Getting started with Speed Insights
+      url: /speed-insights/getting-started
 - title: Getting started
   url: /getting-started
   children:
